@@ -1,0 +1,6 @@
+
+--installation de librery de routage plus facille
+npm install react-router-dom
+
+--installation de primereact
+ npm install primereact primeicons
